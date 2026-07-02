@@ -46,10 +46,12 @@ The environment `--env` can be "cartpole_swingup", "finger_spin", "reacher_easy"
 To cite our paper and/or this repository in publications:
 
 ```bibtex
-@article{xu2026error,
-  title={Error Amplification Limits ANN-to-SNN Conversion in Continuous Control},
-  author={Xu, Zijie and Huang, Zihan and Dong, Yiting and Chen, Kang and Liu, Wenxuan and Yu, Zhaofei},
-  journal={arXiv preprint arXiv:2601.21778},
-  year={2026}
+@inproceedings{
+xu2026error,
+title={Error Amplification Limits {ANN}-to-{SNN} Conversion in Continuous Control},
+author={Zijie Xu and Zihan Huang and Yiting Dong and Kang Chen and Wenxuan Liu and Zhaofei Yu},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=goVeG3ui1Y}
 }
 ```
