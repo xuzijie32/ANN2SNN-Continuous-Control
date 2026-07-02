@@ -1,5 +1,5 @@
 # ANN-to-SNN Conversion in Continuous Control Reinforcement Learning 
-[[`📕 arXiv`](https://arxiv.org/pdf/2601.21778)] [[`🤗 Hugging Face`](https://huggingface.co/Zijie-Xu/ANN-SNN_Continuous_Control)]
+[[`📕 arXiv`](https://arxiv.org/pdf/2601.21778)] [[`💬 OpenReview`](https://openreview.net/forum?id=goVeG3ui1Y)] [[`🤗 Hugging Face`](https://huggingface.co/Zijie-Xu/ANN-SNN_Continuous_Control)]
 
 Official code and **model** release for the **ICML 2026** paper 👇
 ### Error Amplification Limits ANN-to-SNN Conversion in Continuous Control
