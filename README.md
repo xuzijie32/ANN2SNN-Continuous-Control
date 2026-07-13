@@ -40,6 +40,7 @@ python convert.py --env cartpole_swingup --SNN_ts 32 --seed 0
 ```
 The environment `--env` can be "cartpole_swingup", "finger_spin", "reacher_easy", "cheetah_run", "acrobot_swingup", or "quadruped_walk". Running this command will output a .npy file of size `[11]`, including the average returns for 11 different values of $\alpha$: $0,0.1,0.2,\cdots,0.9,1$. 
 
+Note that some environments are noisy and require multiple runs to obtain more reliable and clearer trends, as reported in the paper: `All results are averaged over five random seeds. For each seed, we evaluate the policy over ten rollout episodes of up to 1,000 interaction steps (terminated earlier if the episode ends), yielding a total of 50,000 environment steps per method.`
 
 ## Citing This
 
